@@ -1,0 +1,1 @@
+Using Multinomial Naive Bayes Theorem, we utilize the assumption of conditional independence between words within an SMS message and messages already classified as spam/non-spam to decide if a new message belongs to one category or another.
