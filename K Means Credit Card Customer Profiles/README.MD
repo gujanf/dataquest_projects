@@ -1,0 +1,1 @@
+We have data on customers that have a credit card and multiple columns that represent their information and spending behaviors. We utilize K Means Clustering to create customer segments, and based on that provide recommendations on how to best interact with said customers.
