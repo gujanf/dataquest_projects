@@ -1,0 +1,1 @@
+This project will explore demographic data for customers that visited a hospital, and the charges that said customers incurred. We attempt to find a linear relationship between the characteristics of the customers and the charges.
