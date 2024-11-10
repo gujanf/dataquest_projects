@@ -1,0 +1,1 @@
+For this project we'll play the role of a data scientist with an investment firm that is interested in investing in the Initial Public Offerings (IPO) in the Indian Market. We'll atempt to build a deep learning classification model that will determine if there will be a percentage increase to the share price of a company.
